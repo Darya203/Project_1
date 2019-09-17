@@ -16,7 +16,7 @@ body {
 
 
 h1, h2, h3, h4, h5, h6 { 
-    margin: -20px;
+    margin: 0;
 }
 
 
@@ -72,11 +72,8 @@ h1, h2, h3, h4, h5, h6 {
 .intro__suptitle{
     margin-bottom: 20 px;
     font-family: 'Kaushan Script', cursive;
-<<<<<<< HEAD
     font-size: 56px;
-=======
     font-size: 55px;
->>>>>>> 58cbcafa5e4f12beddea737dccc2da6c50ccd758
     color: #fff;
     text-align: center;
     
